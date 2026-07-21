@@ -7,7 +7,7 @@ Hi 👋 My name is Dachochai Srikarn
 ศึกษาอยู่ปีที่ 1
 
 * 🌍  I'm based in เมืองเอก กรุงเทพฯ
-* ✉️  You can contact me at [t.micky89@gmail.com](mailto:t.micky89@gmail.com)
+* ✉️  You can contact me at [day91492@gmail.com](mailto:day91492@gmail.com)
 * 🧠  I'm currently learning C++, Python, HTML5, and Framework
 * 💬  Ask me about ออกกำลังกาย ดูหนัง ฟังเพลง เล่นเกม
 
